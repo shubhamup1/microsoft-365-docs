@@ -80,7 +80,7 @@ Email customers who are using Exchange Federation will also need the additional 
 |**CNAME** <br/> **(Exchange federation)** <br/> |Helps Outlook clients to easily connect to the Exchange Online service by using the Autodiscover service when your company is using Exchange federation. Autodiscover automatically finds the correct Exchange Server host and configures Outlook for your users.  <br/> |**Alias:** For example, Autodiscover.service.contoso.com  <br/> **Target:** autodiscover.outlook.com  <br/> |
 
 
-## External DNS records required for Skype for Business Online
+## External DNS records required for Skype for Business Online & Microsoft Teams
 <a name="BKMK_ReqdCore"> </a>
 
 There are specific steps to take when you use  [Office 365 URLs and IP address ranges](https://support.office.com/article/8548a211-3fe7-47cb-abb1-355ea5aa88a2#BKMK_LYO) to make sure your network is configured correctly.
